@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-padial/)
 
 ![Padial GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepadial4&show_icons=true&theme=tokyonight)
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadial4&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 ## Tecnologias que uso no meu dia
 
